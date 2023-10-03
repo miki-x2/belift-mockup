@@ -1,0 +1,53 @@
+.social-media li a{
+  background: url("https://beliftlab.com/static/images/common/ico_sns2.png") no-repeat 0 0;
+  width: 25px;
+  height: 25px;
+  text-indent: 25px;
+  white-space: nowrap;
+  display: block;
+  overflow: hidden;
+}
+
+.social-media .facebook{
+  background-position-y: 0px;
+}
+
+.social-media .twitter{
+  background-position-y: -25px;
+}
+
+.social-media .naver{
+  background-position-y: -50px;
+}
+
+.social-media li {
+  display: inline;
+  float: right;
+  padding-right: 15px;
+}
+
+a.navbar-brand{
+  font-family: Tahoma, sans-serif;
+  font-weight: 900;
+  font-size: xx-large;
+}
+
+div.nav-item{
+  font-family: Tahoma, sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+div.dropdown-toggle{
+  color:gray;
+  font-weight: lighter;
+}
+
+p{
+  color:gray;
+  font-family: Tahoma;
+}
+
+p.company{
+  font-weight: bold;
+}
