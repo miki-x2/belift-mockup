@@ -51,3 +51,8 @@ p{
 p.company{
   font-weight: bold;
 }
+
+li {
+  color: gray;
+  font-weight: lighter;
+}
